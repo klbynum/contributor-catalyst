@@ -65,3 +65,6 @@ Here's how to quickly access the emoji keyboards/palettes on various operating s
 ## 💻 Technical Resources
 1. *[Basics of Open Source Licenses Article](https://medium.com/nationwide-technology/a-short-guide-to-open-source-licenses-cf5b1c329edd)*
 2. *[Summarized Software Licenses](https://tldrlegal.com/)*
+
+
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/klbynum/contributor-catalyst/badge)](https://scorecard.dev/viewer/?uri=github.com/klbynum/contributor-catalyst)
